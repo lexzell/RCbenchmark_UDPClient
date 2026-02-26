@@ -1,5 +1,7 @@
 # rcbenchmark-udp-client
 
+Hello together i created a UDP Chat Client to communicate between the **RCbenchmark** software and a python interface. Since you people seem to like structure i asked chatGPT to create a good repo structure. The original file is still there ´UDPChatCLient.py´. Have fun!
+
 Python UDP client intended to communicate with the **RCbenchmark** UDP “Chat” interface (typically via a JS script inside RCbenchmark).
 
 ## What this library does
